@@ -29,10 +29,7 @@ target1 = 4
 print(f"Input: nums = {nums1}, target = {target1}")
 print(f"Output: {two_sum_closest(nums1, target1)}")
 
-# find the total sum 
-# then find the right sum by subtracting the leftsum and current numbers
-# if left sum and right sum is equal return for i 
-# upgrade the leftsum with the num in the ith index
+
 
 
 
