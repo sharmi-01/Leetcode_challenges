@@ -29,6 +29,12 @@ target1 = 4
 print(f"Input: nums = {nums1}, target = {target1}")
 print(f"Output: {two_sum_closest(nums1, target1)}")
 
+# same pattern of two sum but declare close sum
+# if curentsum target difference is lesser than close sum target differnce 
+# the replace the close sum with current sum
+# and return the num
+# CHeck the c sum value with target and adjust the pointer accordingly
+
 
 
 
